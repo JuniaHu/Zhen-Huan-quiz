@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/components/questioncard.tsx","./src/components/radarchart.tsx","./src/data/sbtidata.ts","./src/lib/scoring.ts","./src/lib/share.ts"],"version":"5.9.3"}
